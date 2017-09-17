@@ -1,0 +1,344 @@
+{
+    "frames": {
+        "chara_01.png": {
+            "frame": {
+                "h": 71,
+                "idx": 0,
+                "w": 45,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 71,
+                "w": 45,
+                "x": 27,
+                "y": 23
+            },
+            "trimmed": true
+        },
+        "chara_02.png": {
+            "frame": {
+                "h": 71,
+                "idx": 0,
+                "w": 52,
+                "x": 0,
+                "y": 72
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 71,
+                "w": 52,
+                "x": 22,
+                "y": 23
+            },
+            "trimmed": true
+        },
+        "chara_03.png": {
+            "frame": {
+                "h": 73,
+                "idx": 0,
+                "w": 44,
+                "x": 0,
+                "y": 144
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 73,
+                "w": 44,
+                "x": 28,
+                "y": 21
+            },
+            "trimmed": true
+        },
+        "chara_04.png": {
+            "frame": {
+                "h": 71,
+                "idx": 0,
+                "w": 50,
+                "x": 46,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 71,
+                "w": 50,
+                "x": 22,
+                "y": 23
+            },
+            "trimmed": true
+        },
+        "chara_05.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 53,
+                "x": 45,
+                "y": 144
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 61,
+                "w": 53,
+                "x": 22,
+                "y": 16
+            },
+            "trimmed": true
+        },
+        "chara_06.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 52,
+                "x": 45,
+                "y": 206
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 61,
+                "w": 52,
+                "x": 23,
+                "y": 16
+            },
+            "trimmed": true
+        },
+        "chara_07.png": {
+            "frame": {
+                "h": 60,
+                "idx": 0,
+                "w": 54,
+                "x": 98,
+                "y": 206
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 60,
+                "w": 54,
+                "x": 21,
+                "y": 17
+            },
+            "trimmed": true
+        },
+        "chara_08.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 54,
+                "x": 53,
+                "y": 72
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 61,
+                "w": 54,
+                "x": 21,
+                "y": 16
+            },
+            "trimmed": true
+        },
+        "chara_09.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 65,
+                "x": 153,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 78,
+                "w": 65,
+                "x": 17,
+                "y": 13
+            },
+            "trimmed": true
+        },
+        "chara_10.png": {
+            "frame": {
+                "h": 75,
+                "idx": 0,
+                "w": 58,
+                "x": 219,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 75,
+                "w": 58,
+                "x": 21,
+                "y": 12
+            },
+            "trimmed": true
+        },
+        "chara_11.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 65,
+                "x": 219,
+                "y": 76
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 78,
+                "w": 65,
+                "x": 17,
+                "y": 11
+            },
+            "trimmed": true
+        },
+        "chara_12.png": {
+            "frame": {
+                "h": 75,
+                "idx": 0,
+                "w": 58,
+                "x": 153,
+                "y": 79
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 75,
+                "w": 58,
+                "x": 18,
+                "y": 13
+            },
+            "trimmed": true
+        },
+        "chara_13.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 52,
+                "x": 99,
+                "y": 134
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 64,
+                "w": 52,
+                "x": 21,
+                "y": 13
+            },
+            "trimmed": true
+        },
+        "chara_14.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 52,
+                "x": 97,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 64,
+                "w": 52,
+                "x": 21,
+                "y": 13
+            },
+            "trimmed": true
+        },
+        "chara_15.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 52,
+                "x": 153,
+                "y": 155
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 64,
+                "w": 52,
+                "x": 21,
+                "y": 13
+            },
+            "trimmed": true
+        },
+        "chara_16.png": {
+            "frame": {
+                "h": 64,
+                "idx": 0,
+                "w": 52,
+                "x": 206,
+                "y": 155
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "h": 64,
+                "w": 52,
+                "x": 21,
+                "y": 13
+            },
+            "trimmed": true
+        }
+    },
+    "meta": {
+        "image": "player.png",
+        "prefix": "player/"
+    }
+}

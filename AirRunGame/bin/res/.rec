@@ -1,0 +1,34 @@
+D .
+R 1693692C background.png
+R C9B773C8 bird_1.png
+R C1DC3E7B bird_2.png
+R 9430FADC bird_3.png
+R BBE77035 bird_4.png
+R 23526236 effect.png
+R 4D17D86A en_bar.png
+R 166E9756 floor.png
+R 7BA3423C hp_bar.png
+R 25EE0A10 hp_bg.png
+R FAD8EDEF item_1.png
+R 4A3090BF item_2.png
+R B28CAFC7 item_3.png
+R BFC56C4B item_4.png
+R 7B38C243 m_background.png
+R 39BED8BA spiritEffect.png
+D player
+P 67C61CF7 chara_01.png
+P 513F54F6 chara_02.png
+P BA73B53B chara_03.png
+P 6AB37E5C chara_04.png
+P 8A79B664 chara_05.png
+P 1E1F6580 chara_06.png
+P B3D3F7D5 chara_07.png
+P 264FFB51 chara_08.png
+P 446D1EA7 chara_09.png
+P 80F7CECB chara_10.png
+P B9FE4CAC chara_11.png
+P A8A21059 chara_12.png
+P 5D5C15B5 chara_13.png
+P 8A063585 chara_14.png
+P 609E5E8C chara_15.png
+P 1375BB85 chara_16.png
